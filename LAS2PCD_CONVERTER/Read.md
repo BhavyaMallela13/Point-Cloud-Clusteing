@@ -1,6 +1,6 @@
 You need to just run above .cpp file to convert .las file into .pcd.
 
-First create a LAS2PCD_CONVERTER folder and place this .cpp file and also create another file which is CMakeLists.txt.
+First create a LAS2PCD_CONVERTER folder and place this .cpp file and also create another file which is CMakeLists.txt or directly you can clone it.
 
 For this you need to have PCL installed on your pc.
 
