@@ -12,6 +12,6 @@ To run this just follow the below steps..
 
 ...$ ./cluster_extraction
 
-Then it will create all the clusters in the .pcd file format in the same folder.You want view them by using
+Then it will create all the clusters in the .pcd file format in the same folder.You can view them by using
 
 ...$ pcl_viewer cloud_cluster_0.pcd
